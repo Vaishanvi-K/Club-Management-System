@@ -249,6 +249,6 @@ class club(abc):
       
     def fundsinfo():
         pass
-
+#try
 
   
